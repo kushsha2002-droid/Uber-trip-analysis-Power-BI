@@ -6,6 +6,20 @@ Interactive Power BI portfolio project for analyzing Uber trip activity, booking
 
 This project presents a multi-page Power BI dashboard designed to explore Uber trip data from an operational and business perspective. The report combines KPI tracking, time-based analysis, location analysis, and detailed ride-level exploration.
 
+## Dashboard Preview
+
+### Overview Dashboard
+
+![Uber Trip Analysis Overview](screenshots/Screenshot%202026-10-21%20131900.png)
+
+### Time Analysis
+
+![Uber Time Analysis](screenshots/Screenshot%202026-10-21%20132422.png)
+
+### Details Page
+
+![Uber Trip Details](screenshots/Screenshot%202026-10-21%20132437.png)
+
 ## Dashboard Pages
 
 ### 1. Overview Dashboard
