@@ -20,6 +20,17 @@ This project presents a multi-page Power BI dashboard designed to explore Uber t
 
 ![Uber Trip Details](screenshots/Screenshot%202026-10-21%20132437.png)
 
+## Key Insights
+
+- The dashboard recorded approximately **103.7K total bookings**, generating about **$1.35M in total booking value** across roughly **349K miles** of travel.
+- Average trip performance was about **3 miles per ride** with an average trip time of approximately **16 minutes**.
+- **Uber Pay** accounted for the largest share of booking value, at roughly **63%**, while cash represented about **33%**.
+- **Day trips** generated the majority of booking value at roughly **63%**, compared with about **37%** for night trips.
+- **UberX** was the most frequently booked vehicle category, with around **39K bookings**, substantially higher than the other vehicle types.
+- **Penn Station/Madison Sq West** was the most frequent pickup location, while **Upper East Side North** was the most frequent drop-off location in the overview analysis.
+- Time-based analysis showed **Sunday as the busiest day**, with approximately **19.2K bookings**, while **Friday had the lowest booking volume** at about **9.3K** in the selected period.
+- Pickup demand was lowest during the early-morning hours and increased sharply after approximately **6:00 AM**, reaching its highest levels during the afternoon and early evening.
+
 ## Dashboard Pages
 
 ### 1. Overview Dashboard
